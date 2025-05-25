@@ -28,4 +28,4 @@ go run nimbo.go
 
 
 # Deploy the agent on target machine
-./agent.exe
+To deploy on target please check instruction on how to build go script into binary for various operating system architecture
